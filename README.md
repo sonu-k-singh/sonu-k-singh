@@ -1,4 +1,4 @@
-![Banner](github banne.png)
+![Banner](./banner.png)
 
 # 👋 Hi, I'm Sonu Singh
 
