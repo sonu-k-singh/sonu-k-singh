@@ -1,4 +1,4 @@
-![Banner](github banner)
+![Banner](github banne)
 
 # 👋 Hi, I'm Sonu Singh
 
@@ -46,10 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=sonu-k-singh&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-k-singh&layout=compact&theme=dark)
 
 ---
 
