@@ -1,4 +1,4 @@
-![Banner](github banne)
+![Banner](github banne.png)
 
 # 👋 Hi, I'm Sonu Singh
 
